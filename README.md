@@ -58,3 +58,42 @@ Durante a interação com o NotebookLM, testei diferentes abordagens para extrai
 
 ### ✅ Teste 3: Extração de Glossário
 * **Prompt utilizado:** *"Assista todos os vídeos anexados e liste os 5 termos técnicos mais importantes. Para cada termo, crie uma definição de no máximo 2 linhas focada em iniciantes."*
+* **Resultado:** A extração gerou a base para o meu glossário abaixo.
+
+---
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+Com base nas interações com o NotebookLM, consolidei este miniguia para revisões rápidas:
+
+### 1. Resumo Estruturado do Assunto
+* **Conceito Central:** O Bitcoin é uma revolução tecnológica que transforma o dinheiro em um sistema digital, escasso e descentralizado, fundamentado em verdades matemáticas, permitindo transações globais sem o controle ou a intermediação de bancos centrais e governos.
+* **Diferencial:** O Bitcoin propõe substituir o sistema bancário tradicional eliminando a necessidade de intermediários de confiança, como os bancos comerciais e centrais. Em vez de depender de uma instituição para guardar seu dinheiro e aprovar suas transações, o Bitcoin descentraliza esse poder através de uma rede global de computadores.
+* **Aplicações:** As tradicionais contas bancárias são substituídas por carteiras digitais que são controladas exclusivamente pelo próprio individuo. Cortando os intermediários (como operadoras de cartão de crédito e serviços de remessa), o Bitcoin permite que o envio de qualquer valor, de um dólar a um milhão de dólares, seja feito diretamente de pessoa para pessoa em qualquer lugar do planeta, muitas vezes de forma mais barata e rápida.
+
+### 2. Glossário de Conceitos Aprendidos
+* **[Blockchain]:** É um banco de dados público e descentralizado, mantido por uma rede de computadores, que registra transações de forma segura e permanente, sem a necessidade de um banco como intermediário.
+* **[Contratos Inteligentes (Smart Contracts)]:** São programas de computador bem simples que rodam de forma descentralizada (como na rede Ethereum) e executam acordos financeiros automaticamente assim que as regras predefinidas são atingidas.
+* **[Flexibilização Quantitativa (Quantitative Easing)]:** É uma medida experimental usada pelos bancos centrais, que criam e injetam enormes quantidades de dinheiro do nada no sistema financeiro para estimular a economia durante uma crise.
+* **[Moeda Fiduciária (Fiat Currency)]:** É o dinheiro tradicional emitido por governos (como Dólar ou Real) que não é lastreado em ouro ou outros bens físicos, possuindo valor apenas pela imposição estatal e pela confiança do povo.
+* **[Sistema de Reserva Fracionária]:** É o modelo bancário em que os bancos guardam apenas uma pequena fração do dinheiro depositado em caixa e emprestam todo o restante, multiplicando e criando "dinheiro virtual" na economia.
+
+
+### 3. Prompts Reutilizáveis para Revisão
+Sempre que eu precisar revisar este assunto no futuro, posso usar estes prompts no NotebookLM ou em outras IAs:
+
+1. *"Crie um quiz de 3 perguntas de múltipla escolha sobre a história do dinheiro e a revolução das criptomoedas com base nestas fontes, com gabarito no final."*
+2. *"Aja como um recrutador e me faça uma pergunta técnica de entrevista sobre Blockchain. Avalie minha resposta em seguida."*
+3. *"Explique o conceito de Smart Contracts fazendo uma analogia com situações do dia a dia."*
+
+---
+
+🔗 **Link do NotebookLM original (Qualquer pessoa com o link):** `https://notebooklm.google.com/notebook/fd076d2e-cde6-4132-9b78-2b7624ffb09d`  
+
+![Infográfico baseado no asunto](./infografico.png)
+
+<video src="./resumo-video.mp4" width="600" controls>
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+🎧 [Clique aqui para ouvir o resumo do projeto em áudio](./audio-resumo.m4a)
